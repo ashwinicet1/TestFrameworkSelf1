@@ -1,56 +1,20 @@
-2025-06-18 19:06:00 INFO  Utils:112 - [TestNG] Running:
-  /Users/ashwinikumar/Selenium14Feb2025/TestFrameworkSelf1/master.xml
-
-2025-06-18 19:06:04 INFO  TC001_AccountRegistration_Test:29 - Starting verify account test
-2025-06-18 19:06:04 INFO  TC001_AccountRegistration_Test:34 - Starting of test method verify_account_register
-2025-06-18 19:06:05 INFO  TC001_AccountRegistration_Test:46 - Starting of registration page
-2025-06-18 19:06:06 INFO  TC001_AccountRegistration_Test:66 - End of test method verify_account_register
-2025-06-18 19:06:13 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
-2025-06-18 19:06:13 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
-2025-06-18 19:06:13 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
-2025-06-18 19:06:13 INFO  TC_002_LoginTest:37 - Entering valid email and password..
-2025-06-18 19:06:14 INFO  TC_002_LoginTest:41 - clicked on ligin button..
-2025-06-18 19:06:14 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
-2025-06-18 19:17:00 INFO  Utils:112 - [TestNG] Running:
-  /Users/ashwinikumar/Selenium14Feb2025/TestFrameworkSelf1/master.xml
-
-2025-06-18 19:17:05 INFO  TC001_AccountRegistration_Test:29 - Starting verify account test
-2025-06-18 19:17:05 INFO  TC001_AccountRegistration_Test:34 - Starting of test method verify_account_register
-2025-06-18 19:17:06 INFO  TC001_AccountRegistration_Test:46 - Starting of registration page
-2025-06-18 19:17:08 INFO  TC001_AccountRegistration_Test:66 - End of test method verify_account_register
-2025-06-18 19:17:15 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
-2025-06-18 19:17:16 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
-2025-06-18 19:17:16 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
-2025-06-18 19:17:16 INFO  TC_002_LoginTest:37 - Entering valid email and password..
-2025-06-18 19:17:17 INFO  TC_002_LoginTest:41 - clicked on ligin button..
-2025-06-18 19:17:17 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
-2025-06-18 19:20:13 INFO  TC001_AccountRegistration_Test:29 - Starting verify account test
-2025-06-18 19:20:13 INFO  TC001_AccountRegistration_Test:34 - Starting of test method verify_account_register
-2025-06-18 19:20:14 INFO  TC001_AccountRegistration_Test:46 - Starting of registration page
-2025-06-18 19:20:15 INFO  TC001_AccountRegistration_Test:66 - End of test method verify_account_register
-2025-06-18 19:20:23 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
-2025-06-18 19:20:23 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
-2025-06-18 19:20:23 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
-2025-06-18 19:20:23 INFO  TC_002_LoginTest:37 - Entering valid email and password..
-2025-06-18 19:20:24 INFO  TC_002_LoginTest:41 - clicked on ligin button..
-2025-06-18 19:20:24 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
-2025-06-18 19:21:21 INFO  TC001_AccountRegistration_Test:29 - Starting verify account test
-2025-06-18 19:21:21 INFO  TC001_AccountRegistration_Test:34 - Starting of test method verify_account_register
-2025-06-18 19:21:22 INFO  TC001_AccountRegistration_Test:46 - Starting of registration page
-2025-06-18 19:21:23 INFO  TC001_AccountRegistration_Test:66 - End of test method verify_account_register
-2025-06-18 19:21:30 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
-2025-06-18 19:21:30 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
-2025-06-18 19:21:31 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
-2025-06-18 19:21:31 INFO  TC_002_LoginTest:37 - Entering valid email and password..
-2025-06-18 19:21:32 INFO  TC_002_LoginTest:41 - clicked on ligin button..
-2025-06-18 19:21:32 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
-2025-06-18 21:55:39 INFO  TC001_AccountRegistration_Test:29 - Starting verify account test
-2025-06-18 21:55:39 INFO  TC001_AccountRegistration_Test:34 - Starting of test method verify_account_register
-2025-06-18 21:55:40 INFO  TC001_AccountRegistration_Test:46 - Starting of registration page
-2025-06-18 21:55:42 INFO  TC001_AccountRegistration_Test:66 - End of test method verify_account_register
-2025-06-18 21:55:50 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
-2025-06-18 21:55:50 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
-2025-06-18 21:55:50 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
-2025-06-18 21:55:50 INFO  TC_002_LoginTest:37 - Entering valid email and password..
-2025-06-18 21:55:51 INFO  TC_002_LoginTest:41 - clicked on ligin button..
-2025-06-18 21:55:51 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
+2025-06-19 11:12:21 INFO  TC001_AccountRegistration_Test:29 - Starting verify account test
+2025-06-19 11:12:21 INFO  TC001_AccountRegistration_Test:34 - Starting of test method verify_account_register
+2025-06-19 11:12:22 INFO  TC001_AccountRegistration_Test:46 - Starting of registration page
+2025-06-19 11:12:25 INFO  TC001_AccountRegistration_Test:66 - End of test method verify_account_register
+2025-06-19 11:12:31 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-19 11:12:31 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-19 11:12:31 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-19 11:12:31 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-19 11:12:32 INFO  TC_002_LoginTest:41 - clicked on ligin button..
+2025-06-19 11:12:32 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
+2025-06-19 11:13:46 INFO  TC001_AccountRegistration_Test:29 - Starting verify account test
+2025-06-19 11:13:46 INFO  TC001_AccountRegistration_Test:34 - Starting of test method verify_account_register
+2025-06-19 11:13:46 INFO  TC001_AccountRegistration_Test:46 - Starting of registration page
+2025-06-19 11:13:48 INFO  TC001_AccountRegistration_Test:66 - End of test method verify_account_register
+2025-06-19 11:13:54 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-19 11:13:54 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-19 11:13:55 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-19 11:13:55 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-19 11:13:55 INFO  TC_002_LoginTest:41 - clicked on ligin button..
+2025-06-19 11:13:56 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
